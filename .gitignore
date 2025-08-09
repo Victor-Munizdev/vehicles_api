@@ -1,3 +1,4 @@
 /node_modules
 nest-cli.json
 yarn.lock
+.env 

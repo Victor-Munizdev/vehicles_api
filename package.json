@@ -1,7 +1,6 @@
 {
-  "name": "meu-projeto-vehicles",
+  "name": "vhecile_api",
   "version": "1.0.0",
-  "description": "CRUD Vehicles NestJS + Postgres",
   "scripts": {
     "start": "node dist/main.js",
     "start:dev": "ts-node-dev --respawn --transpile-only src/main.ts",
