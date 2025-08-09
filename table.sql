@@ -1,0 +1,6 @@
+CREATE TABLE vehicles (
+  id SERIAL PRIMARY KEY,
+  marca VARCHAR(100) NOT NULL,
+  modelo VARCHAR(100) NOT NULL,
+  ano INT NOT NULL
+);
