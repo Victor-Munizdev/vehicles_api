@@ -11,8 +11,8 @@ A aplicação ficará disponível em: http://localhost:3000
 
 Endpoints da API de veículos
 Método	URL	Descrição
-GET	/vehicles	Lista todos os veículos cadastrados
-<hr>
+GET	/vehicles	Lista todos os veículos cadastrados:
+<br>
 GET	/vehicles/:id	Retorna os dados de um veículo pelo ID
 <hr>
 POST	/vehicles	Cria um novo veículo
