@@ -4,7 +4,7 @@ Clone o repositório e vá até a pasta do projeto.
 Instale as dependências:
 npm install (Se não for rode: npm install --force ou yarn install)
 
-Inicie a aplicação em modo de desenvolvimento:
+Inicie a aplicação:
 
 npm run start:dev <br>
 A aplicação ficará disponível em: http://localhost:3000
